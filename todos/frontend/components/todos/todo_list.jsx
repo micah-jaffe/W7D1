@@ -1,6 +1,6 @@
 import React from 'react';
 
-const header = (props) => {
+const TodoList = (props) => {
   // debugger
   return(
     <>
@@ -12,4 +12,4 @@ const header = (props) => {
   )
 };
 
-export default header
+export default TodoList
